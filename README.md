@@ -7,6 +7,9 @@ https://devnetsandbox.cisco.com/RM/Diagram/Index/27d9747a-db48-4565-8d44-df318fc
 
 https://blog.wimwauters.com/networkprogrammability/2020-03-30-netconf_python_part1/
 
+Beatiful xml code change
+
+https://beautifytools.com/xml-beautifier.php
 
 #Need install pip modules
 
