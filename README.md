@@ -10,15 +10,15 @@ https://beautifytools.com/xml-beautifier.php
 
 # Need install pip modules
 
-> **xmltodict** 
-> **ncclient** 
-> **requests**
+- **xmltodict** 
+- **ncclient** 
+- **requests**
 
 ## This env_lab.py Script is need to same location.
 
-> **09_AddLoopback.py**
-> **10_Delete_Loopback.py**
-> **11_Get_Interface_List.py**
+- **09_AddLoopback.py**
+- **10_Delete_Loopback.py**
+- **11_Get_Interface_List.py**
 
 > **env_lab.py** 
 
